@@ -58,3 +58,8 @@ nmcli con down <SSID> && nmcli con up <SSID>            # reconnect
 With the same MAC, only one of the two devices should be on the network at a
 time — PortalPass hands your authorized session to the headless device, it
 doesn't create an extra one.
+
+## License
+
+Non-Commercial Software License — free to use, modify, and share for
+non-commercial purposes. See [LICENSE](LICENSE).
