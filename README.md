@@ -2,6 +2,8 @@
 
 Clone-and-connect for headless devices on captive-portal Wi-Fi.
 
+![PortalPass GUI](assets/portalpass-gui.png)
+
 Some Wi-Fi networks (hotels, airports, cafes) put a **captive portal** — a
 "click to accept the terms" web page — in front of the connection. Headless or
 browserless devices (a Raspberry Pi, an IoT gadget, a game console) can't
